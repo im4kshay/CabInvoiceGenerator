@@ -11,6 +11,7 @@ namespace CabInvoiceGenerator
         static void Main(string[] args)
         {
             Console.WriteLine("=-=-=-=-=-Welcome To The Cab Invoice Generator Program-=-=-=-=-=");
+            Console.ReadLine();
         }
     }
 }
